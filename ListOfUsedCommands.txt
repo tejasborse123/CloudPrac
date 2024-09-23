@@ -1,0 +1,21 @@
+Name : Tejas Borse
+Reg No : 2022BCS519
+
+1) git init
+2) git remote add origin https://github.com/tejasborse123/CloudPrac.git
+3) git status
+4) git log
+5) git add Hello.java
+6) git commit -m "2022BCS519"
+7) git pull
+8) git clone https://github.com/tejasborse123/CloudPrac.git
+9) git branch
+10) git branch Tejas
+11) git checkout Tejas
+12) git branch -d Demo
+13) git push --set-upstream origin Tejas
+14) git merge Tejas
+15) git config --global user.name "Tejas Borse"
+16) git config --global user.email "2022bcs519@sggs.ac.in"
+17) git config --global --list
+
