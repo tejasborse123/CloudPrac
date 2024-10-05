@@ -1,2 +1,2 @@
 # CloudPrac
-This is my College Cloud Computing Official Practical..
+This is my College Cloud Computing Official Practical...
